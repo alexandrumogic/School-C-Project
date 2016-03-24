@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1458160062 source:c:\users\mox\desktop\proiect c++ facultate\main.cpp
+	<iostream>
+	"EngineGlut.h"
+
+1458160298 c:\users\mox\desktop\proiect c++ facultate\engineglut.h
+
+1458834570 source:c:\users\mox\desktop\proiect c++ facultate\point2d.cpp
+	"Point2D.h"
+	"EngineGlut.h"
+	<iostream>
+
+1458834570 c:\users\mox\desktop\proiect c++ facultate\point2d.h
+
+1458834570 source:c:\users\mox\desktop\programare ii\proiect c++ facultate\point2d.cpp
+	"Point2D.h"
+	"EngineGlut.h"
+	<iostream>
+
+1458834570 c:\users\mox\desktop\programare ii\proiect c++ facultate\point2d.h
+
+1458160298 c:\users\mox\desktop\programare ii\proiect c++ facultate\engineglut.h
+
+1458835408 source:c:\users\mox\desktop\programare ii\proiect c++ facultate\main.cpp
+	<iostream>
+	"EngineGlut.h"
+	"Point2D.h"
+
