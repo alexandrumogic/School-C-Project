@@ -10,6 +10,8 @@ class Point2D
         virtual ~Point2D();
         void draw();
         static int getCount();
+        double getX();
+        double getY();
     protected:
     private:
         double x, y;

@@ -32,3 +32,13 @@ int Point2D::getCount()
 {
     return counter;
 }
+
+double Point2D::getX()
+{
+    return x;
+}
+
+double Point2D::getY()
+{
+    return y;
+}

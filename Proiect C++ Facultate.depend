@@ -1,16 +1,21 @@
 # depslib dependency file v1.0
-1458160062 source:c:\users\mox\desktop\proiect c++ facultate\main.cpp
+1461523263 source:c:\users\mox\desktop\proiect c++ facultate\main.cpp
 	<iostream>
 	"EngineGlut.h"
+	"Point2D.h"
+	"Line2D.h"
+	"Triangle2D.h"
+	"Rectangle2D.h"
+	"Airplane.h"
 
-1458160298 c:\users\mox\desktop\proiect c++ facultate\engineglut.h
+1461518006 c:\users\mox\desktop\proiect c++ facultate\engineglut.h
 
-1458834570 source:c:\users\mox\desktop\proiect c++ facultate\point2d.cpp
+1459355558 source:c:\users\mox\desktop\proiect c++ facultate\point2d.cpp
 	"Point2D.h"
 	"EngineGlut.h"
 	<iostream>
 
-1458834570 c:\users\mox\desktop\proiect c++ facultate\point2d.h
+1459355558 c:\users\mox\desktop\proiect c++ facultate\point2d.h
 
 1458834570 source:c:\users\mox\desktop\programare ii\proiect c++ facultate\point2d.cpp
 	"Point2D.h"
@@ -24,5 +29,81 @@
 1458835408 source:c:\users\mox\desktop\programare ii\proiect c++ facultate\main.cpp
 	<iostream>
 	"EngineGlut.h"
+	"Point2D.h"
+
+1458839010 source:e:\proiect c++ facultate\main.cpp
+	<iostream>
+	"EngineGlut.h"
+	"Point2D.h"
+
+1458163900 e:\proiect c++ facultate\engineglut.h
+
+1458838172 e:\proiect c++ facultate\point2d.h
+
+1458838172 source:e:\proiect c++ facultate\point2d.cpp
+	"Point2D.h"
+	"EngineGlut.h"
+	<iostream>
+
+1459354903 source:c:\users\student\desktop\proiect c++ facultate\main.cpp
+	<iostream>
+	"EngineGlut.h"
+	"Point2D.h"
+	"Line2D.h"
+	"Triangle2D.h"
+
+1458163900 c:\users\student\desktop\proiect c++ facultate\engineglut.h
+
+1459351957 c:\users\student\desktop\proiect c++ facultate\point2d.h
+
+1459351957 source:c:\users\student\desktop\proiect c++ facultate\point2d.cpp
+	"Point2D.h"
+	"EngineGlut.h"
+	<iostream>
+
+1459352051 source:c:\users\student\desktop\proiect c++ facultate\line2d.cpp
+	"Line2D.h"
+	"EngineGlut.h"
+
+1459351181 c:\users\student\desktop\proiect c++ facultate\line2d.h
+	"Point2D.h"
+
+1459355055 source:c:\users\student\desktop\proiect c++ facultate\triangle2d.cpp
+	"Triangle2D.h"
+	"EngineGlut.h"
+	"Line2D.h"
+
+1459353979 c:\users\student\desktop\proiect c++ facultate\triangle2d.h
+	"Point2D.h"
+
+1459355652 source:c:\users\mox\desktop\proiect c++ facultate\line2d.cpp
+	"Line2D.h"
+	"EngineGlut.h"
+
+1459354782 c:\users\mox\desktop\proiect c++ facultate\line2d.h
+	"Point2D.h"
+
+1459357580 c:\users\mox\desktop\proiect c++ facultate\triangle2d.h
+	"Point2D.h"
+
+1461516376 source:c:\users\mox\desktop\proiect c++ facultate\triangle2d.cpp
+	"Triangle2D.h"
+	"EngineGlut.h"
+	"Line2D.h"
+
+1461523193 source:c:\users\mox\desktop\proiect c++ facultate\airplane.cpp
+	"Airplane.h"
+
+1461523146 c:\users\mox\desktop\proiect c++ facultate\airplane.h
+	"Line2D.h"
+	"Triangle2D.h"
+	"Rectangle2D.h"
+
+1461518148 source:c:\users\mox\desktop\proiect c++ facultate\rectangle2d.cpp
+	"Rectangle2D.h"
+	"EngineGlut.h"
+	"Line2D.h"
+
+1461518148 c:\users\mox\desktop\proiect c++ facultate\rectangle2d.h
 	"Point2D.h"
 
